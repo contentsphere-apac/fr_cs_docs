@@ -1,6 +1,6 @@
-======================
-Contentsphere Handbook
-======================
+==================================
+Contentsphere Handbook (French)
+==================================
 
 Everything you need to know about the **Contentsphere** Application suite and
 training materials and guides is provided in this suite of materials.
