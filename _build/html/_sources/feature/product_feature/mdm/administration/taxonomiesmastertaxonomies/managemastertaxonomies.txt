@@ -1,6 +1,6 @@
-==========================
+========================
 Manage Master Taxonomies
-==========================
+========================
 The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies that are based on Masters so that each level of taxonomy is represented by a Master Tag Group.
 
 
