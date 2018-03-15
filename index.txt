@@ -14,8 +14,8 @@ Getting help
 .. image:: _images/valkyrie_screenshot_compressed.png
    :alt: Contentsphere log in screen
 
-Using the Handbook
-==================
+Using the French Handbook
+=========================
 
 To search through the documentation see :ref:`search`.
 
