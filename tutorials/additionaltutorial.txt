@@ -1,0 +1,14 @@
+===================================
+Tutoriel Supplémentaire (Français)
+===================================
+
+
+Qu'est-ce qu'une classe?
+-------------------------
+
+Contentsphere utilise deux types de classes: * (1) Nature Class * et * (2) Non-Nature / Attribution Class *.
+Les classes définissent les configurations de base pour les produits. Chaque classe donnée à un produit permet à ce produit d'avoir une définition plus précise.
+Il existe plusieurs niveaux de classes qui peuvent être utilisés conjointement pour obtenir une classification plus précise.
+
+Le niveau supérieur de classe est * Nature Class *. Cela définit le type de base de produit pour commencer. Les classes de nature sont personnalisables dans les * Paramètres ou Administration *.
+Voici les différents types de classes par défaut:
