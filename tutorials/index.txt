@@ -10,3 +10,4 @@ Read this material to quickly get up and running.
    exploretheui
    whatisadatamodel
    howclasseswork
+   additionaltutorial
