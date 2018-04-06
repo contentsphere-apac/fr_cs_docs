@@ -1,0 +1,8 @@
+====================================
+Page de Fonctionnalités en Français
+====================================
+
+.. toctree::
+   :maxdepth: 1
+
+   frenchfeaturepage
