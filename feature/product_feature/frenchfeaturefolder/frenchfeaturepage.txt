@@ -1,0 +1,8 @@
+====================
+Guides de Fonctions
+====================
+
+* caractéristiques du produit
+* Caractéristiques de la feuille de route
+* Caractéristiques obsolètes
+* Exigences

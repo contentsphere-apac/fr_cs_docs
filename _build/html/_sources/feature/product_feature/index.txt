@@ -9,4 +9,5 @@ Product Features
    pim/index
    pep/index
    mch/index
+   frenchfeaturefolder/index
    feature guides
